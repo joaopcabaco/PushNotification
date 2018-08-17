@@ -19,7 +19,7 @@
   ],
   "engines": [
     {
-      "name": "cordova-android",
+      "name": "cordova",
       "version": ">=3.6.0"
     }
   ]
